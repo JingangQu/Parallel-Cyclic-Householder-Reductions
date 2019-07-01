@@ -1,3 +1,5 @@
+// author : jingang
+
 #ifndef PCR_Solver_cuh
 #define PCR_Solver_cuh
 
