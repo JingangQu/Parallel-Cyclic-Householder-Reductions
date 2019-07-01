@@ -1,3 +1,5 @@
+// This file is provided by the teacher
+
 #ifndef Householder_cuh
 #define Householder_cuh
 
