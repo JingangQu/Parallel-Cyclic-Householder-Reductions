@@ -1,3 +1,5 @@
+// author : jingang
+
 #include <stdio.h>
 #include <stdlib.h>
 #include "PCR_Solver.cuh"
